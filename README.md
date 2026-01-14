@@ -39,13 +39,13 @@ bookstore-fullstack/
 
 Running the Project
 
-Backend
+Backend:
 
 cd bookstore-backend
 
 ./mvnw spring-boot:run
 
-Frontend
+Frontend:
 
 cd bookstore-frontend
 
@@ -53,6 +53,5 @@ npm install
 
 npm run dev
 
-Author
-
+Author - 
 Abhishek Sahu
